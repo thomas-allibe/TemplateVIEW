@@ -14,15 +14,18 @@
 			<Item Name="JKI-Square-Grey Icon-Close-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Close-No Shadow.ctl"/>
 			<Item Name="JKI-Square-Grey Icon-Collapse All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Collapse All-No Shadow.ctl"/>
 			<Item Name="JKI-Square-Grey Icon-Expand All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Expand All-No Shadow.ctl"/>
+			<Item Name="JKI-Square-Grey Icon-Maximize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Maximize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-Grey Icon-Minimize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Minimize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-Grey Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Settings-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Close-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Close-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Collapse All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Collapse All-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Expand All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Expand All-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Maximize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Maximize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Minimize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Minimize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Settings-No Shadow.ctl"/>
 		</Item>
 		<Item Name="Sources" Type="Folder">
+			<Item Name="Appearance Actor.lvlib" Type="Library" URL="../Sources/Appearance Actor/Appearance Actor.lvlib"/>
 			<Item Name="Launcher.vi" Type="VI" URL="../Sources/Launcher.vi"/>
 			<Item Name="Root Panel.lvlib" Type="Library" URL="../Sources/Root Panel/Root Panel.lvlib"/>
 		</Item>
