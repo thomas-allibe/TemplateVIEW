@@ -10,6 +10,18 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="JKI-Square-Grey Icon-Close-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Close-No Shadow.ctl"/>
+			<Item Name="JKI-Square-Grey Icon-Collapse All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Collapse All-No Shadow.ctl"/>
+			<Item Name="JKI-Square-Grey Icon-Expand All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Expand All-No Shadow.ctl"/>
+			<Item Name="JKI-Square-Grey Icon-Minimize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Minimize-No Shadow.ctl"/>
+			<Item Name="JKI-Square-Grey Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Settings-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Close-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Close-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Collapse All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Collapse All-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Expand All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Expand All-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Minimize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Minimize-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Settings-No Shadow.ctl"/>
+		</Item>
 		<Item Name="Sources" Type="Folder">
 			<Item Name="Launcher.vi" Type="VI" URL="../Sources/Launcher.vi"/>
 			<Item Name="Root Panel.lvlib" Type="Library" URL="../Sources/Root Panel/Root Panel.lvlib"/>
@@ -23,6 +35,9 @@
 				<Item Name="Application Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Application Directory.vi"/>
 				<Item Name="Check if File or Folder Exists.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/libraryn.llb/Check if File or Folder Exists.vi"/>
 				<Item Name="Clear Errors.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Clear Errors.vi"/>
+				<Item Name="Draw Arc.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Arc.vi"/>
+				<Item Name="Draw Circle by Radius.vi" Type="VI" URL="/&lt;vilib&gt;/picture/pictutil.llb/Draw Circle by Radius.vi"/>
+				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 				<Item Name="Get LV Class Name.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Get LV Class Name.vi"/>
 				<Item Name="Get System Directory.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/Get System Directory.vi"/>
@@ -53,6 +68,7 @@
 				<Item Name="Set Cursor (Cursor ID).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Cursor ID).vi"/>
 				<Item Name="Set Cursor (Icon Pict).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor (Icon Pict).vi"/>
 				<Item Name="Set Cursor.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/cursorutil.llb/Set Cursor.vi"/>
+				<Item Name="Set Pen State.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Set Pen State.vi"/>
 				<Item Name="Single String To Qualified Name Array.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Single String To Qualified Name Array.vi"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
