@@ -96,7 +96,7 @@
 		</Item>
 	</Item>
 	<Item Name="Private" Type="Folder">
-		<Item Name="Get Overriden Key or Root--malleable.vim" Type="VI" URL="../Private/SubVIs/Get Overriden Key or Root--malleable.vim">
+		<Item Name="Read Overriden Key or Root--malleable.vim" Type="VI" URL="../Private/SubVIs/Read Overriden Key or Root--malleable.vim">
 			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'E!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!!N!"Q!&amp;6G&amp;M&gt;75!'U!7!!%,9W^O:GFH)'2B&gt;'%!"H*F:GZV&lt;1!!3Q$RO;;7B!!!!!)24EF@4&amp;:$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%2B&gt;'%A5G6G4H6N,G.U&lt;!!;1(!!!1!"!!9,;7ZJ)&amp;*F:C"0&gt;81!(%!Q`````R*0&gt;G6S=GFE:3"3&lt;W^U)&amp;&gt;J&gt;'A!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!.1!=!"U2F:G&amp;V&lt;(1!$%!Q`````Q.,:8E!3Q$RO;;7B!!!!!)24EF@4&amp;:$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%2B&gt;'%A5G6G4H6N,G.U&lt;!!;1(!!!1!"!!9+;7ZJ)&amp;*F:C"*&lt;A!!6!$Q!!Q!!Q!%!!5!"Q!%!!1!"!!)!!E!#A!,!!Q$!!"Y!!!.#!!!!!!!!!U*!!!.#Q!!!!!!!!!!!!!!!!!"%A!!!!I!!!!+!!!#%!!!!!A!!!!!!1!.!!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
@@ -104,6 +104,15 @@
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">34078736</Property>
+		</Item>
+		<Item Name="Read Theme Key--malleable.vim" Type="VI" URL="../Private/SubVIs/Read Theme Key--malleable.vim">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!,C!!!!$Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!!N!"Q!&amp;6G&amp;M&gt;75!'U!7!!%,9W^O:GFH)'2B&gt;'%!"H*F:GZV&lt;1!!3Q$RO;;7B!!!!!)24EF@4&amp;:$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%2B&gt;'%A5G6G4H6N,G.U&lt;!!;1(!!!1!"!!9,;7ZJ)&amp;*F:C"0&gt;81!*E!Q`````RR4:7.U;7^O)':P=C"0&gt;G6S=GFE:3!I27VQ&gt;(EJ!!!;1#%51W&amp;O)%*F)%^W:8*S;72F&lt;C!I2CE!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!01!=!#52B&gt;'%A6(FQ:1%E!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=R65;'6N:3"&amp;&lt;H2S?3UN:7ZV&lt;3ZD&gt;'Q!W5!7!!A%4G^O:2.5;82M:5*B=CZ197ZF,E.P&lt;'^S'V2J&gt;'RF1G&amp;S,F.Q&lt;'FU&gt;'6S,E:J&lt;'R$&lt;WRP=BZ5;82M:5*B=CZ4='RJ&gt;(2F=CZ0&gt;82M;7ZF1W^M&lt;X):6'FU&lt;'6#98)O6'FU&lt;'5O2G^O&gt;#Z$&lt;WRP=BJ5;82M:5*B=CZ5;82M:3Z'&lt;WZU,E:B&lt;7FM?2B5;82M:5*B=CZ5;82M:3Z'&lt;WZU,F.J?G5:6'FU&lt;'6#98)O6'FU&lt;'5O2G^O&gt;#Z4&gt;(FM:1!15G^P&gt;#"5;'6N:3"&amp;&lt;H2S?1!!3Q$RO;;7B!!!!!)24EF@4&amp;:$&lt;WZG;7=O&lt;(:M;7)71W^O:GFH)%2B&gt;'%A5G6G4H6N,G.U&lt;!!;1(!!!1!"!!9+;7ZJ)&amp;*F:C"*&lt;A!!6!$Q!!Q!!Q!%!!5!"Q!%!!A!"!!*!!I!#Q!-!!U$!!"Y!!!.#!!!!!!!!!E!!!!.#Q!!!!!!!1I!!!!!!!!!#!!!!!I!!!!1!!!!%!!!!"!!!!!!!1!/!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">268967952</Property>
 		</Item>
 	</Item>
 </LVClass>

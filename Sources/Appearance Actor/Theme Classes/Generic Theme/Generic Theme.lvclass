@@ -148,6 +148,7 @@
 			</Item>
 		</Item>
 		<Item Name="Utilities" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">3</Property>
 			<Item Name="Style String To Bools.vi" Type="VI" URL="../API/Utilities/Style String To Bools.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#K!!!!"Q!11#%+67ZE:8*M;7ZF:!!!$E!B#6.U=GFL:7^V&gt;!!-1#%'382B&lt;'FD!!!+1#%%1G^M:!!!"!!!!":!-0````]-5X2Z&lt;'5A5X2S;7ZH!!"5!0!!$!!!!!%!!A!$!!1!"!!%!!1!"!!%!!1!"1)!!(A!!!E!!!!*!!!!#1!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!##!!!!!!"!!9!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -165,6 +166,24 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1350574592</Property>
+			</Item>
+			<Item Name="U32 Color To Hexa String.vi" Type="VI" URL="../API/Utilities/U32 Color To Hexa String.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#,!!!!"!!%!!!!(%!Q`````R-Y)%.I98)A3'6Y93"4&gt;(*J&lt;G=A!!^!"Q!*64-S)%.P&lt;'^S!&amp;1!]!!-!!!!!!!"!!!!!!!!!!!!!!!!!!!!!A!!!A!!?!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!!!!!!%!!Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
+			</Item>
+			<Item Name="Hexa String To U32 Color.vi" Type="VI" URL="../API/Utilities/Hexa String To U32 Color.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#,!!!!"!!%!!!!$U!(!!F6-T)A1W^M&lt;X)!(%!Q`````R-Y)%.I98)A3'6Y93"4&gt;(*J&lt;G=A!&amp;1!]!!-!!!!!!!"!!!!!!!!!!!!!!!!!!!!!A!!!A!!?!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!AA!!!!!!!!!!!%!!Q!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 			</Item>
 		</Item>
 	</Item>
