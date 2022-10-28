@@ -67,6 +67,15 @@
 		</Item>
 		<Item Name="Methods" Type="Folder">
 			<Item Name="Apply Theme" Type="Folder">
+				<Item Name="Apply Light-Dark Controls Visibility.vi" Type="VI" URL="../API/Methods/Apply Theme/Apply Light-Dark Controls Visibility.vi">
+					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'6!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%J!=!!?!!!O&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T!!!22W6O:8*J9S"5;'6N:3"P&gt;81!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!"B!=!!)!!!!"A!!#E.U&lt;#"3:7:O&gt;7U!!"J!1!!"`````Q!($52B=GMA1W^O&gt;(*P&lt;(-!(%"!!!(`````!!=/4'FH;(1A1W^O&gt;(*P&lt;(-!!%J!=!!?!!!O&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T!!!12W6O:8*J9S"5;'6N:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!#!!*!!I#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!A!!!)1!!!#%!!!!*!!!!!!!1!,!!!!!!</Property>
+					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+				</Item>
 				<Item Name="Apply Theme To ActionButtons.vi" Type="VI" URL="../API/Methods/Apply Theme/Apply Theme To ActionButtons.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)O!!!!$1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%J!=!!?!!!O&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T!!!22W6O:8*J9S"5;'6N:3"P&gt;81!*%!Q`````RJ0&gt;G6S=GFE:3"3&lt;W^U)&amp;&gt;J&gt;'AA+%6N=(2Z+1!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!)E!]1!!!!!!!!!$&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T'&amp;&gt;J&lt;G2P&gt;S"&amp;&lt;'6N:7ZU,3VF&lt;H6N,G.U&lt;!!\1"9!"!2/&lt;WZF#&amp;2J&gt;'RF1G&amp;S#&amp;.J:'6.:7ZV#%*P:(F197ZF!!Z8;7ZE&lt;X=A27RF&lt;76O&gt;!!!(%"Q!!A!!!!)!!!01WRP=W6#&gt;82U&lt;WYA5G6G!"Z!1!!"`````Q!*%5&amp;D&gt;'FP&lt;E*V&gt;(2P&lt;H-A5G6G!%J!=!!?!!!O&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T!!!12W6O:8*J9S"5;'6N:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!#!!+!!M#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!##!!!!!A!!!!1!!!#%!!!!*!!!!!!!1!-!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
