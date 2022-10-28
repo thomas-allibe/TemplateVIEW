@@ -1,0 +1,56 @@
+== Apply Theme Msg.lvclass
+
+*Responsibility:*
+No description found (add content in lvclass description)
+
+*Version:* 1.0.0.0
+
+[plantuml, format="svg", align="center"]
+....
+@startuml
+set namespaceSeparator :
+skinparam ClassBackgroundColor #FFFFFF
+skinparam ClassBorderColor #555555
+skinparam ClassFontColor #000000
+skinparam ClassHeaderBackgroundColor #808080
+
+skinparam top to bottom direction
+class "Appearance Actor.lvlib:Apply Theme Msg" {
+{static} {method} +Send Apply Theme()
+{method} +Do()
+
+}
+"Actor Framework.lvlib:Message" <|-- "Appearance Actor.lvlib:Apply Theme Msg"
+
+
+
+@enduml
+....
+
+.Functions (non private scope only)
+[cols="<.<4d,<.<8a,<.<12d,<.<1a,<.<1a,<.<1a", %autowidth, frame=all, grid=all, stripes=none]
+|===
+|Name |Connector pane |Description |S. |R. |I.
+
+|Send Apply Theme
+|image:Appearance_Actor.lvlib_Apply_Theme_Msg.lvclass_Send_Apply_Theme.vi.png[Appearance Actor.lvlib:Apply Theme Msg.lvclass:Send Apply Theme.vi]
+|+++This VI sends the message to an actor.+++
+
+|image:empty.png[empty.png]
+|image:reentrancy-preallocated.png[reentrancy-preallocated.png]
+|image:inlined.png[inlined.png]
+
+|Do
+|image:Appearance_Actor.lvlib_Apply_Theme_Msg.lvclass_Do.vi.png[Appearance Actor.lvlib:Apply Theme Msg.lvclass:Do.vi]
+|+++This VI delivers the message to the actor by calling the appropriate method(s) on the actor.+++
+
+|image:empty.png[empty.png]
+|image:reentrancy-shared.png[reentrancy-shared.png]
+|image:empty.png[empty.png]
+|===
+
+**S**cope: image:scope-protected.png[] -> Protected | image:scope-community.png[] -> Community
+
+**R**eentrancy: image:reentrancy-preallocated.png[] -> Preallocated reentrancy | image:reentrancy-shared.png[] -> Shared reentrancy
+
+**I**nlining: image:inlined.png[] -> Inlined

@@ -1,0 +1,17 @@
+== Root Panel.lvlib
+
+*Responsibility:*
+No description found (add content in lvlib description)
+
+*Version:* 1.0.0.0
+
+.Nested libraries
+[cols="<.<1d,<.<1d", %autowidth, frame=all, grid=all, stripes=none]
+|===
+|Name |Type
+
+|<<Root Panel Actor.lvclass>>
+|LVClass
+|===
+
+This library has no functions set to non private scope.

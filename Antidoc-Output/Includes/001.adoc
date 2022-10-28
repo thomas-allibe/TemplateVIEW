@@ -1,0 +1,35 @@
+== Appearance Actor.lvlib
+
+*Responsibility:*
+No description found (add content in lvlib description)
+
+*Version:* 1.0.0.0
+
+.Nested libraries
+[cols="<.<1d,<.<1d", %autowidth, frame=all, grid=all, stripes=none]
+|===
+|Name |Type
+
+|<<Apply Theme Msg.lvclass>>
+|LVClass
+
+|<<Load Theme-Root Only Msg.lvclass>>
+|LVClass
+
+|<<Propagate Theme To Nested Appearance Actors Msg.lvclass>>
+|LVClass
+
+|<<Recieve Theme From Caller Msg.lvclass>>
+|LVClass
+
+|<<Generic Theme.lvclass>>
+|LVClass
+
+|<<ini Theme.lvclass>>
+|LVClass
+
+|<<Appearance Actor.lvclass>>
+|LVClass
+|===
+
+This library has no functions set to non private scope.

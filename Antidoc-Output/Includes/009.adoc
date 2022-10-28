@@ -1,0 +1,125 @@
+== ini Theme.lvclass
+
+*Responsibility:*
+No description found (add content in lvclass description)
+
+*Version:* 1.0.0.2
+
+[plantuml, format="svg", align="center"]
+....
+@startuml
+set namespaceSeparator :
+skinparam ClassBackgroundColor #FFFFFF
+skinparam ClassBorderColor #555555
+skinparam ClassFontColor #000000
+skinparam ClassHeaderBackgroundColor #808080
+
+skinparam top to bottom direction
+class "Appearance Actor.lvlib:ini Theme" {
+{field} -ini Config Ref : NoType
+{method} +Apply Light-Dark Controls Visibility()
+{method} +Apply Theme To ActionButtons()
+{method} +Apply Theme To CloseButton()
+{method} +Apply Theme To Pane()
+{method} +Apply Theme To Splitter()
+{method} +Apply Theme To Title()
+{method} +Load Theme()
+{method} +Unload Theme()
+{method} +Get Theme Info()
+
+}
+"Appearance Actor.lvlib:Generic Theme" <|-- "Appearance Actor.lvlib:ini Theme"
+
+
+
+@enduml
+....
+
+.Functions (non private scope only)
+[cols="<.<4d,<.<8a,<.<12d,<.<1a,<.<1a,<.<1a", %autowidth, frame=all, grid=all, stripes=none]
+|===
+|Name |Connector pane |Description |S. |R. |I.
+
+|Apply Light-Dark Controls Visibility
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Apply_Light_Dark_Controls_Visibility.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Apply Light-Dark Controls Visibility.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Apply Theme To ActionButtons
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Apply_Theme_To_ActionButtons.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Apply Theme To ActionButtons.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Apply Theme To CloseButton
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Apply_Theme_To_CloseButton.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Apply Theme To CloseButton.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Apply Theme To Pane
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Apply_Theme_To_Pane.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Apply Theme To Pane.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Apply Theme To Splitter
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Apply_Theme_To_Splitter.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Apply Theme To Splitter.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Apply Theme To Title
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Apply_Theme_To_Title.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Apply Theme To Title.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Load Theme
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Load_Theme.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Load Theme.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Unload Theme
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Unload_Theme.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Unload Theme.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Get Theme Info
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Get_Theme_Info.vi.png[Appearance Actor.lvlib:ini Theme.lvclass:Get Theme Info.vi]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+|image:empty.png[empty.png]
+
+|Read Overriden Key or Root--malleable
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Read_Overriden_Key_or_Root__malleable.vim.png[Appearance Actor.lvlib:ini Theme.lvclass:Read Overriden Key or Root--malleable.vim]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:reentrancy-preallocated.png[reentrancy-preallocated.png]
+|image:inlined.png[inlined.png]
+
+|Read Theme Key--malleable
+|image:Appearance_Actor.lvlib_ini_Theme.lvclass_Read_Theme_Key__malleable.vim.png[Appearance Actor.lvlib:ini Theme.lvclass:Read Theme Key--malleable.vim]
+|No description found (add content in vi description)
+|image:empty.png[empty.png]
+|image:reentrancy-preallocated.png[reentrancy-preallocated.png]
+|image:inlined.png[inlined.png]
+|===
+
+**S**cope: image:scope-protected.png[] -> Protected | image:scope-community.png[] -> Community
+
+**R**eentrancy: image:reentrancy-preallocated.png[] -> Preallocated reentrancy | image:reentrancy-shared.png[] -> Shared reentrancy
+
+**I**nlining: image:inlined.png[] -> Inlined

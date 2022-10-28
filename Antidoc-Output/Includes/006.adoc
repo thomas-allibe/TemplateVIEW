@@ -1,0 +1,56 @@
+== Propagate Theme To Nested Appearance Actors Msg.lvclass
+
+*Responsibility:*
+No description found (add content in lvclass description)
+
+*Version:* 1.0.0.0
+
+[plantuml, format="svg", align="center"]
+....
+@startuml
+set namespaceSeparator :
+skinparam ClassBackgroundColor #FFFFFF
+skinparam ClassBorderColor #555555
+skinparam ClassFontColor #000000
+skinparam ClassHeaderBackgroundColor #808080
+
+skinparam top to bottom direction
+class "Appearance Actor.lvlib:Propagate Theme To Nested Appearance Actors Msg" {
+{static} {method} +Send Propagate Theme To Nested Appearance Actors()
+{method} +Do()
+
+}
+"Actor Framework.lvlib:Message" <|-- "Appearance Actor.lvlib:Propagate Theme To Nested Appearance Actors Msg"
+
+
+
+@enduml
+....
+
+.Functions (non private scope only)
+[cols="<.<4d,<.<8a,<.<12d,<.<1a,<.<1a,<.<1a", %autowidth, frame=all, grid=all, stripes=none]
+|===
+|Name |Connector pane |Description |S. |R. |I.
+
+|Send Propagate Theme To Nested Appearance Actors
+|image:Appearance_Actor.lvlib_Propagate_Theme_To_Nested_Appearance_Actors_Msg.lvclass_Send_Propagate_Theme_To_Nested_Appearance_Actors.vi.png[Appearance Actor.lvlib:Propagate Theme To Nested Appearance Actors Msg.lvclass:Send Propagate Theme To Nested Appearance Actors.vi]
+|+++This VI sends the message to an actor.+++
+
+|image:empty.png[empty.png]
+|image:reentrancy-preallocated.png[reentrancy-preallocated.png]
+|image:inlined.png[inlined.png]
+
+|Do
+|image:Appearance_Actor.lvlib_Propagate_Theme_To_Nested_Appearance_Actors_Msg.lvclass_Do.vi.png[Appearance Actor.lvlib:Propagate Theme To Nested Appearance Actors Msg.lvclass:Do.vi]
+|+++This VI delivers the message to the actor by calling the appropriate method(s) on the actor.+++
+
+|image:empty.png[empty.png]
+|image:reentrancy-shared.png[reentrancy-shared.png]
+|image:empty.png[empty.png]
+|===
+
+**S**cope: image:scope-protected.png[] -> Protected | image:scope-community.png[] -> Community
+
+**R**eentrancy: image:reentrancy-preallocated.png[] -> Preallocated reentrancy | image:reentrancy-shared.png[] -> Shared reentrancy
+
+**I**nlining: image:inlined.png[] -> Inlined

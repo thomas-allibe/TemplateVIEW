@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="364px" preserveAspectRatio="none" style="width:295px;height:364px;background:#FFFFFF;" version="1.1" viewBox="0 0 295 364" width="295px" zoomAndPan="magnify"><defs/><g><!--MD5=[c3bba3c91c036041d3a1ed31e588f991]
+cluster Appearance Actor.lvlib--><g id="cluster_Appearance Actor.lvlib"><path d="M8.5,6 L164.5,6 A3.75,3.75 0 0 1 167,8.5 L174,28.7999 L285.5,28.7999 A2.5,2.5 0 0 1 288,31.2999 L288,354.5 A2.5,2.5 0 0 1 285.5,357 L8.5,357 A2.5,2.5 0 0 1 6,354.5 L6,8.5 A2.5,2.5 0 0 1 8.5,6 " style="stroke:#000000;stroke-width:1.5;fill:none;"/><line style="stroke:#000000;stroke-width:1.5;fill:none;" x1="6" x2="174" y1="28.7999" y2="28.7999"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="155" x="10" y="21.9999">Appearance Actor.lvlib</text></g><!--MD5=[eb37ef1cacab0443550a818eb2713915]
+class Appearance Actor.lvlib:Generic Theme--><g id="elem_Appearance Actor.lvlib:Generic Theme"><rect codeLine="8" fill="#FFFFFF" height="299.9989" id="Appearance Actor.lvlib:Generic Theme" rx="2.5" ry="2.5" style="stroke:#555555;stroke-width:0.5;" width="250" x="22" y="41"/><rect fill="#808080" height="32" rx="2.5" ry="2.5" style="stroke:#808080;stroke-width:0.5;" width="250" x="22" y="41"/><rect fill="#808080" height="2.5" style="stroke:#808080;stroke-width:0.5;" width="250" x="22" y="70.5"/><rect codeLine="8" fill="none" height="299.9989" id="Appearance Actor.lvlib:Generic Theme" rx="2.5" ry="2.5" style="stroke:#555555;stroke-width:0.5;" width="250" x="22" y="41"/><ellipse cx="95.75" cy="57" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M95.1094,60.7813 Q95.9063,60.7813 96.4688,60.5938 Q97.0469,60.3906 97.2813,60.1719 Q97.5313,59.9375 97.7656,59.75 Q98.0156,59.5469 98.2344,59.5469 Q98.5781,59.5469 98.8281,59.8125 Q99.0938,60.0625 99.0938,60.3906 Q99.0938,61.125 97.9219,61.8125 Q96.7656,62.4844 95.0625,62.4844 Q92.9063,62.4844 91.4844,61.2188 Q90.0625,59.9531 90.0625,58.0156 L90.0625,56.8906 Q90.0625,54.8594 91.3906,53.4844 Q92.7188,52.0938 94.6875,52.0938 Q95.875,52.0938 97.0938,52.6719 L97.2656,52.75 Q97.5625,52.3438 97.9844,52.3438 Q98.4688,52.3438 98.6406,52.6406 Q98.8281,52.9219 98.8281,53.4688 L98.8281,54.8906 Q98.8281,56.0156 97.9844,56.0156 Q97.6719,56.0156 97.4688,55.8438 Q97.2813,55.6719 97.2344,55.5313 Q97.2031,55.375 97.1563,55.1094 Q97.0469,54.5938 96.5313,54.2813 Q96.0156,53.9688 95.5625,53.8906 Q95.125,53.7969 94.75,53.7969 Q93.4688,53.7969 92.6094,54.6719 Q91.7656,55.5469 91.7656,56.8906 L91.7656,57.9844 Q91.7656,59.2656 92.6719,60.0313 Q93.5781,60.7813 95.1094,60.7813 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="94" x="116.25" y="62.6">Generic Theme</text><line style="stroke:#555555;stroke-width:0.5;" x1="23" x2="271" y1="73" y2="73"/><ellipse cx="33" cy="84" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="42" y="90.9999">A Theme is Loaded : Boolean</text><line style="stroke:#555555;stroke-width:0.5;" x1="23" x2="271" y1="97.7999" y2="97.7999"/><ellipse cx="33" cy="108.7999" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="130" x="42" y="115.7999">Default Entry Value()</text><ellipse cx="33" cy="125.5999" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="138" x="42" y="132.5998">Style String To Bools()</text><ellipse cx="33" cy="142.3998" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="190" x="42" y="149.3997">Theme Entry Enum To String()</text><ellipse cx="33" cy="159.1997" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="169" x="42" y="166.1996">U32 Color To Hexa String()</text><ellipse cx="33" cy="175.9996" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="169" x="42" y="182.9996">Hexa String To U32 Color()</text><ellipse cx="33" cy="192.7996" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="224" x="42" y="199.7995">Apply Light-Dark Controls Visibility()</text><ellipse cx="33" cy="209.5995" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="200" x="42" y="216.5994">Apply Theme To ActionButtons()</text><ellipse cx="33" cy="226.3994" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="42" y="233.3994">Apply Theme To CloseButton()</text><ellipse cx="33" cy="243.1993" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="147" x="42" y="250.1993">Apply Theme To Pane()</text><ellipse cx="33" cy="259.9993" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="42" y="266.9992">Apply Theme To Splitter()</text><ellipse cx="33" cy="276.7992" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="141" x="42" y="283.7991">Apply Theme To Title()</text><ellipse cx="33" cy="293.5991" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="87" x="42" y="300.5991">Load Theme()</text><ellipse cx="33" cy="310.399" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="100" x="42" y="317.399">Unload Theme()</text><ellipse cx="33" cy="327.199" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="105" x="42" y="334.1989">Get Theme Info()</text></g><!--MD5=[db4b3c0728debbc78b676d8b42cf9370]
+@startuml
+set namespaceSeparator :
+skinparam ClassBackgroundColor #FFFFFF
+skinparam ClassBorderColor #555555
+skinparam ClassFontColor #000000
+skinparam ClassHeaderBackgroundColor #808080
+
+skinparam top to bottom direction
+class "Appearance Actor.lvlib:Generic Theme" {
+{field} +A Theme is Loaded : Boolean
+{static} {method} +Default Entry Value()
+{static} {method} +Style String To Bools()
+{static} {method} +Theme Entry Enum To String()
+{static} {method} +U32 Color To Hexa String()
+{static} {method} +Hexa String To U32 Color()
+{method} +Apply Light-Dark Controls Visibility()
+{method} +Apply Theme To ActionButtons()
+{method} +Apply Theme To CloseButton()
+{method} +Apply Theme To Pane()
+{method} +Apply Theme To Splitter()
+{method} +Apply Theme To Title()
+{method} +Load Theme()
+{method} +Unload Theme()
+{method} +Get Theme Info()
+
+}
+
+
+
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 10:55:52 GMT 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>

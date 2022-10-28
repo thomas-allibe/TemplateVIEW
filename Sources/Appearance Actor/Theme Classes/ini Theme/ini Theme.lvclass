@@ -2,6 +2,9 @@
 <LVClass LVVersion="21008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Appearance Actor.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Appearance Actor.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">Class to handle themes in the application.
+This class use ini files to store all the theme configuration.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)3!!!*Q(C=\&gt;4,51*"&amp;)8BI_8#,3OX&amp;CG=&amp;%C"&amp;'Y+&lt;&amp;W3QEW"&amp;#;&amp;GQ)JE!,_UVY@5'*:J77ZI.P'Y@4LIW&gt;KJ&amp;(OJ4M^@+/)WB^[P::/_P83`^,:VS@T^&gt;Y`&amp;N'H[V_?@^[PMT%8\&gt;&gt;S,&gt;@S68E[@F(_BH!DT8M&gt;DU6,7N#M?@NDE2&gt;ZE2&gt;ZE2&gt;ZEC&gt;ZEC&gt;ZEC&gt;ZE!&gt;ZE!&gt;ZE!?ZS5VO=J/&lt;X/3DEIN=Z#+(6'R?&lt;&amp;1M7CR1$);CYK0Q&amp;*\#5XDYKM*4?!J0Y3E]$&amp;(B+4S&amp;J`!5(K;J]"3?QF.Y#A^,$5G.3I[H],#]%E`C34S**`'QJ2*0!EAW3R:/&amp;I'BJ$/Z3$S**`&amp;QK=34?"*0YEE]&gt;#PR**\%EXA3$V0'K?41T*5=$]MI]!3?Q".Y!A^,+`!%HM!4?!)0WSHQ"*Y!%7Q9,!Z"Q;2A10!F]!1?`CHQ"*\!%XA#$VXD$M5YG6ET6X)]RG-]RG-]RM-3-B\D-2\D-2[7F@%9D`%9D`'QF9T(?)T(1-SG&lt;#_TG*FI"JH!?0A&lt;4YP(8=IB];B30\TKBV,^M+E@)P8$I&lt;\J[JOJPEHKQV=@KPKQV)?A`H&amp;KN"KDXE1^?2[I!Z^\WE4&lt;U&lt;;U$7V.7^'7N-5]^:=((AY(\@&gt;\4&gt;/EX7[H\8;LT7;D^8KNV7KFZ8+JR7,R^BJYJ,[^%04U'W_7(Z:`]'\5L4\OR2E^!RE`L0=!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.2</Property>

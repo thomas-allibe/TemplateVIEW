@@ -2,6 +2,9 @@
 <LVClass LVVersion="21008000">
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Appearance Actor.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Appearance Actor.lvlib</Property>
+	<Property Name="NI.Lib.Description" Type="Str">Class to handle themes in the application.
+This is the Generic class. A child class will implement his own way of applying theme.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)T!!!*Q(C=\&gt;3^&lt;2N"%-8R:U/"5V:AASTB&amp;?#%,4"U/CUQF!-&amp;&lt;'&amp;;9'R&amp;L-$!J![P"=:/#0J`SZ%A![&lt;AQ"!=])Z,(&gt;^_T%^\BZ0']5'[U_JP$A;P'+GHC\Z[-;!`IU_L(P6\PSY&gt;9^4F[ML]V&gt;06(`KPV(_6@DNOR_WY@HQ^PX+]$?'&gt;..=[HYO7N+":=`FTE2&gt;ZE2&gt;ZE2&gt;ZEC&gt;ZEC&gt;ZEC&gt;ZE!&gt;ZE!&gt;ZE!?ZS5VO=J/&lt;X/4D*"?ZS%5/K3B?&amp;#I7,29I"E.2]66Y#E`B+4T]6/%J0)7H]"1?BKDQ&amp;*\#5XA+$^.5?!J0Y3E]B9?FBK4'39[H],#]%E`C34S**`&amp;15IEH!34&amp;EI7427!I[5QO%E`C34R=+P%EHM34?")0X5I]C3@R**\%QZ3R+TEU]UG/BW55?!*0Y!E]A9?F&amp;8A#4_!*0)'(=AI]A3&gt;!"!7$R3%IG"1-#(Y%HM$$(Q7?Q".Y!E`AI7P=I2A\-WPGERS0]2C0]2C0]&lt;#%D-&gt;YD-&gt;YD)&gt;F:4T'9TT'9TS5EP%9D`%9C#F+?:H&amp;T%1TS!4'QW=],2ZX+9@%YZ4[Y65`F/K(4@U1K2]/^5V8XUTV46*PPHJ4V:OFXA4V0[&gt;'KT(K)OL*]U!&gt;_:ZI"^K?NK.N;2P;GL;E,?;J`XDA]8D5.%U[(!\;\`@;\8&lt;;&lt;L@;&lt;$:;L^&gt;;,J&gt;;,"&lt;0LY&amp;0H-]PB-N\[??X,R^0D^`P4Q]`0J]?J`M4P^`OP@1`P"PV8C^LM5?`!*6]S@%!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">553680896</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.1</Property>
@@ -115,11 +118,11 @@
 				<Item Name="Apply Theme To Title.vi" Type="VI" URL="../API/Methods/Apply Theme/Apply Theme To Title.vi">
 					<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)+!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!%J!=!!?!!!O&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T!!!22W6O:8*J9S"5;'6N:3"P&gt;81!*%!Q`````RJ0&gt;G6S=GFE:3"3&lt;W^U)&amp;&gt;J&gt;'AA+%6N=(2Z+1!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!)E!]1!!!!!!!!!$&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T'&amp;&gt;J&lt;G2P&gt;S"&amp;&lt;'6N:7ZU,3VF&lt;H6N,G.U&lt;!!\1"9!"!2/&lt;WZF#&amp;2J&gt;'RF1G&amp;S#&amp;.J:'6.:7ZV#%*P:(F197ZF!!Z8;7ZE&lt;X=A27RF&lt;76O&gt;!!!&amp;E"Q!!A!!!!&lt;!!!*6'FU&lt;'5A5G6G!%J!=!!?!!!O&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T!!!12W6O:8*J9S"5;'6N:3"J&lt;A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!'!!=!#!!*!!I#!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!##!!!!!A!!!!1!!!!%!!!!*!!!!!!!1!,!!!!!!</Property>
 					<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-					<Property Name="NI.ClassItem.Flags" Type="Int">1073741824</Property>
+					<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 					<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
 					<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 					<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-					<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+					<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 				</Item>
 			</Item>
 			<Item Name="Ctor and Dtor" Type="Folder">
@@ -155,6 +158,15 @@
 			</Item>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
+			<Item Name="Control Reference Lists--cluster.ctl" Type="VI" URL="../API/Typedefs/Control Reference Lists--cluster.ctl">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"0!!!!!1"(!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=QF$&lt;WZU=G^M)$%!#!!!!!%!!!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">5242880</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
+			</Item>
 			<Item Name="Theme Control Property--enum.ctl" Type="VI" URL="../API/Typedefs/Theme Control Property--enum.ctl">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!#1!!!!!1#)!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=R&gt;5;'6N:3"$&lt;WZU=G^M,3VF&lt;H6N,G.U&lt;!!\1"9!"!2/&lt;WZF#&amp;2J&gt;'RF1G&amp;S#&amp;.J:'6.:7ZV#%*P:(F197ZF!!Z8;7ZE&lt;X=A27RF&lt;76O&gt;!!!!1!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -220,6 +232,15 @@
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			</Item>
+			<Item Name="List And Filter Controls From VI.vi" Type="VI" URL="../API/Utilities/List And Filter Controls From VI.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;\!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!"Z!=!!)!!!!4!!!%62J&gt;'RF1G&amp;S,F.Q&lt;'FU&gt;'6S!"Z!=!!)!!!!4!!!%6.J:'6.:7ZV,F.Q&lt;'FU&gt;'6S!(9!]1!!!!!!!!!$&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T*%.P&lt;H2S&lt;WQA5G6G:8*F&lt;G.F)%RJ=X2T,3VD&lt;(6T&gt;'6S,G.U&lt;!!=1&amp;!!!A!&amp;!!9-1W^O&gt;(*P&lt;#"4:82T!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!&amp;E"Q!!A!!!!#!!!*6EEA5G6G&lt;H6N!&amp;1!]!!-!!-!"!!%!!=!"!!%!!1!"!!)!!1!"!!*!Q!!?!!!#1!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!!!!!!!!!!!!)!!!!!!%!#A!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342972432</Property>
 			</Item>
 		</Item>
 	</Item>

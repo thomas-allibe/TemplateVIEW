@@ -1,0 +1,57 @@
+== Recieve Theme From Caller Msg.lvclass
+
+*Responsibility:*
+No description found (add content in lvclass description)
+
+*Version:* 1.0.0.2
+
+[plantuml, format="svg", align="center"]
+....
+@startuml
+set namespaceSeparator :
+skinparam ClassBackgroundColor #FFFFFF
+skinparam ClassBorderColor #555555
+skinparam ClassFontColor #000000
+skinparam ClassHeaderBackgroundColor #808080
+
+skinparam top to bottom direction
+class "Appearance Actor.lvlib:Recieve Theme From Caller Msg" {
+{field} -Theme DVR : NoType
+{static} {method} +Send Recieve Theme From Caller()
+{method} +Do()
+
+}
+"Actor Framework.lvlib:Message" <|-- "Appearance Actor.lvlib:Recieve Theme From Caller Msg"
+
+
+
+@enduml
+....
+
+.Functions (non private scope only)
+[cols="<.<4d,<.<8a,<.<12d,<.<1a,<.<1a,<.<1a", %autowidth, frame=all, grid=all, stripes=none]
+|===
+|Name |Connector pane |Description |S. |R. |I.
+
+|Send Recieve Theme From Caller
+|image:Appearance_Actor.lvlib_Recieve_Theme_From_Caller_Msg.lvclass_Send_Recieve_Theme_From_Caller.vi.png[Appearance Actor.lvlib:Recieve Theme From Caller Msg.lvclass:Send Recieve Theme From Caller.vi]
+|+++This VI sends the message to an actor.+++
+
+|image:empty.png[empty.png]
+|image:reentrancy-preallocated.png[reentrancy-preallocated.png]
+|image:inlined.png[inlined.png]
+
+|Do
+|image:Appearance_Actor.lvlib_Recieve_Theme_From_Caller_Msg.lvclass_Do.vi.png[Appearance Actor.lvlib:Recieve Theme From Caller Msg.lvclass:Do.vi]
+|+++This VI delivers the message to the actor by calling the appropriate method(s) on the actor.+++
+
+|image:empty.png[empty.png]
+|image:reentrancy-shared.png[reentrancy-shared.png]
+|image:empty.png[empty.png]
+|===
+
+**S**cope: image:scope-protected.png[] -> Protected | image:scope-community.png[] -> Community
+
+**R**eentrancy: image:reentrancy-preallocated.png[] -> Preallocated reentrancy | image:reentrancy-shared.png[] -> Shared reentrancy
+
+**I**nlining: image:inlined.png[] -> Inlined
