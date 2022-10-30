@@ -31,6 +31,7 @@
 			<Item Name="Appearance Actor.lvlib" Type="Library" URL="../Sources/Appearance Actor/Appearance Actor.lvlib"/>
 			<Item Name="Launcher.vi" Type="VI" URL="../Sources/Launcher.vi"/>
 			<Item Name="Root Panel.lvlib" Type="Library" URL="../Sources/Root Panel/Root Panel.lvlib"/>
+			<Item Name="StatusBar Actor.lvlib" Type="Library" URL="../Sources/StatusBar Actor/StatusBar Actor.lvlib"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Test_Split.vi" Type="VI" URL="../Tests/Test_Split.vi"/>
