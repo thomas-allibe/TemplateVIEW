@@ -9,14 +9,15 @@
 </Property>
 	<Item Name="Layout Classes" Type="Folder">
 		<Item Name="Layout Components" Type="Folder">
-			<Item Name="SideMenu" Type="Folder">
-				<Item Name="SideMenu.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/SideMenu/SideMenu.lvclass"/>
+			<Item Name="SideMenus" Type="Folder">
+				<Item Name="No SideMenu.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/SideMenus/No SideMenu/No SideMenu.lvclass"/>
+				<Item Name="SideMenu.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/SideMenus/SideMenu/SideMenu.lvclass"/>
 			</Item>
-			<Item Name="StatusBar" Type="Folder">
-				<Item Name="StatusBar.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/StatusBar/StatusBar.lvclass"/>
+			<Item Name="StatusBars" Type="Folder">
+				<Item Name="StatusBar.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/StatusBars/StatusBar/StatusBar.lvclass"/>
 			</Item>
-			<Item Name="TitleBar" Type="Folder">
-				<Item Name="TitleBar.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/TitleBar/TitleBar.lvclass"/>
+			<Item Name="TitleBars" Type="Folder">
+				<Item Name="TitleBar.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/TitleBars/TitleBar/TitleBar.lvclass"/>
 			</Item>
 		</Item>
 		<Item Name="Predifined Layouts" Type="Folder">
