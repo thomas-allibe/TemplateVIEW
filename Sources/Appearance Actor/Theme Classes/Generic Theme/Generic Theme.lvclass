@@ -33,7 +33,7 @@ This is the Generic class. A child class will implement his own way of applying 
 	<Item Name="API" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Constants" Type="Folder">
-			<Item Name="Default Entry Value--String.vi" Type="VI" URL="../API/Constants/Default Entry Value--String.vi">
+			<Item Name="Default Entry Value-String.vi" Type="VI" URL="../API/Constants/Default Entry Value-String.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!4!!!!!"1!%!!!!)%!Q`````R&gt;%:7:B&gt;7RU)&amp;:B&lt;(6F)%&amp;T)&amp;.U=GFO:Q0&amp;!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=S"5;'6N:3"$&lt;WZU=G^M)&amp;"S&lt;X"F=H2Z,3VF&lt;H6N,G.U&lt;!.P1"9!)12/&lt;WZF&amp;5*V&gt;(2P&lt;CZ'97RT:5:J&lt;'R$&lt;WRP=BB#&gt;82U&lt;WYO2G&amp;M=W60&gt;82M;7ZF1W^M&lt;X)&lt;1H6U&gt;'^O,E:B&lt;(.F6'^5=H6F2GFM&lt;%.P&lt;'^S(E*V&gt;(2P&lt;CZ'97RT:62P6(*V:5^V&gt;'RJ&lt;G6$&lt;WRP=BJ#&gt;82U&lt;WYO3'^W:8*'97RT:5:J&lt;'R$&lt;WRP=BV#&gt;82U&lt;WYO3'^W:8*'97RT:5^V&gt;'RJ&lt;G6$&lt;WRP=BF#&gt;82U&lt;WYO3'^W:8*5=H6F2GFM&lt;%.P&lt;'^S(%*V&gt;(2P&lt;CZ)&lt;X:F=F2S&gt;760&gt;82M;7ZF1W^M&lt;X)51H6U&gt;'^O,F2S&gt;76';7RM1W^M&lt;X)81H6U&gt;'^O,F2S&gt;760&gt;82M;7ZF1W^M&lt;X)&lt;1H6U&gt;'^O,F2S&gt;765&lt;U:B&lt;(.F2GFM&lt;%.P&lt;'^S(E*V&gt;(2P&lt;CZ5=H6F6'^'97RT:5^V&gt;'RJ&lt;G6$&lt;WRP=BJ$&lt;'^T:5*V&gt;(2P&lt;CZ'97RT:5:J&lt;'R$&lt;WRP=BV$&lt;'^T:5*V&gt;(2P&lt;CZ'97RT:5^V&gt;'RJ&lt;G6$&lt;WRP=C"$&lt;'^T:5*V&gt;(2P&lt;CZ'97RT:62P6(*V:5:J&lt;'R$&lt;WRP=C.$&lt;'^T:5*V&gt;(2P&lt;CZ'97RT:62P6(*V:5^V&gt;'RJ&lt;G6$&lt;WRP=B^$&lt;'^T:5*V&gt;(2P&lt;CZ)&lt;X:F=E:B&lt;(.F2GFM&lt;%.P&lt;'^S)E.M&lt;X.F1H6U&gt;'^O,EBP&gt;G6S2G&amp;M=W60&gt;82M;7ZF1W^M&lt;X)?1WRP=W6#&gt;82U&lt;WYO3'^W:8*5=H6F2GFM&lt;%.P&lt;'^S)5.M&lt;X.F1H6U&gt;'^O,EBP&gt;G6S6(*V:5^V&gt;'RJ&lt;G6$&lt;WRP=BF$&lt;'^T:5*V&gt;(2P&lt;CZ5=H6F2GFM&lt;%.P&lt;'^S(%.M&lt;X.F1H6U&gt;'^O,F2S&gt;760&gt;82M;7ZF1W^M&lt;X)A1WRP=W6#&gt;82U&lt;WYO6(*V:62P2G&amp;M=W6';7RM1W^M&lt;X)D1WRP=W6#&gt;82U&lt;WYO6(*V:62P2G&amp;M=W60&gt;82M;7ZF1W^M&lt;X)+5'&amp;O:3Z$&lt;WRP=B*4='RJ&gt;(2F=CZ';7RM1W^M&lt;X)65X"M;82U:8)O4X6U&lt;'FO:5.P&lt;'^S$6.Q&lt;'FU&gt;'6S,F.J?G516'FU&lt;'5O2G^O&gt;#Z$&lt;WRP=B&amp;5;82M:3Z'&lt;WZU,E:B&lt;7FM?1^5;82M:3Z'&lt;WZU,F.J?G516'FU&lt;'5O2G^O&gt;#Z4&gt;(FM:1!!&amp;F2I:7VF)%.P&lt;H2S&lt;WQA5(*P='6S&gt;(E!!(M!]1!!!!!!!!!$&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T'&amp;&gt;J&lt;G2P&gt;S"&amp;&lt;'6N:7ZU,3VF&lt;H6N,G.U&lt;!!N1"9!"12/&lt;WZF!F2#!F..!E*1!F.#!!!/6WFO:'^X)%6M:7VF&lt;H1!!&amp;1!]!!-!!!!!!!!!!%!!!!!!!!!!!!!!!!!!A!$!A!!?!!!!!!!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!)!!!!!!%!"!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -42,7 +42,7 @@ This is the Generic class. A child class will implement his own way of applying 
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
-			<Item Name="Default Entry Value--U32.vi" Type="VI" URL="../API/Constants/Default Entry Value--U32.vi">
+			<Item Name="Default Entry Value-U32.vi" Type="VI" URL="../API/Constants/Default Entry Value-U32.vi">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!3\!!!!"1!%!!!!'U!(!"2%:7:B&gt;7RU)&amp;:B&lt;(6F)%&amp;T)&amp;5T-A!$R1$R!!!!!!!!!!-718"Q:7&amp;S97ZD:3""9X2P=CZM&gt;GRJ9B6(:7ZF=GFD)&amp;2I:7VF,GRW9WRB=X-A6'BF&lt;75A1W^O&gt;(*P&lt;#"1=G^Q:8*U?3UN:7ZV&lt;3ZD&gt;'Q$&lt;U!7!#%%4G^O:26#&gt;82U&lt;WYO2G&amp;M=W6';7RM1W^M&lt;X)91H6U&gt;'^O,E:B&lt;(.F4X6U&lt;'FO:5.P&lt;'^S'U*V&gt;(2P&lt;CZ'97RT:62P6(*V:5:J&lt;'R$&lt;WRP=BZ#&gt;82U&lt;WYO2G&amp;M=W65&lt;V2S&gt;760&gt;82M;7ZF1W^M&lt;X);1H6U&gt;'^O,EBP&gt;G6S2G&amp;M=W6';7RM1W^M&lt;X)&gt;1H6U&gt;'^O,EBP&gt;G6S2G&amp;M=W60&gt;82M;7ZF1W^M&lt;X):1H6U&gt;'^O,EBP&gt;G6S6(*V:5:J&lt;'R$&lt;WRP=BR#&gt;82U&lt;WYO3'^W:8*5=H6F4X6U&lt;'FO:5.P&lt;'^S&amp;%*V&gt;(2P&lt;CZ5=H6F2GFM&lt;%.P&lt;'^S&amp;U*V&gt;(2P&lt;CZ5=H6F4X6U&lt;'FO:5.P&lt;'^S'U*V&gt;(2P&lt;CZ5=H6F6'^'97RT:5:J&lt;'R$&lt;WRP=BZ#&gt;82U&lt;WYO6(*V:62P2G&amp;M=W60&gt;82M;7ZF1W^M&lt;X);1WRP=W6#&gt;82U&lt;WYO2G&amp;M=W6';7RM1W^M&lt;X)&gt;1WRP=W6#&gt;82U&lt;WYO2G&amp;M=W60&gt;82M;7ZF1W^M&lt;X)A1WRP=W6#&gt;82U&lt;WYO2G&amp;M=W65&lt;V2S&gt;76';7RM1W^M&lt;X)D1WRP=W6#&gt;82U&lt;WYO2G&amp;M=W65&lt;V2S&gt;760&gt;82M;7ZF1W^M&lt;X)@1WRP=W6#&gt;82U&lt;WYO3'^W:8*'97RT:5:J&lt;'R$&lt;WRP=C*$&lt;'^T:5*V&gt;(2P&lt;CZ)&lt;X:F=E:B&lt;(.F4X6U&lt;'FO:5.P&lt;'^S(E.M&lt;X.F1H6U&gt;'^O,EBP&gt;G6S6(*V:5:J&lt;'R$&lt;WRP=C&amp;$&lt;'^T:5*V&gt;(2P&lt;CZ)&lt;X:F=F2S&gt;760&gt;82M;7ZF1W^M&lt;X):1WRP=W6#&gt;82U&lt;WYO6(*V:5:J&lt;'R$&lt;WRP=BR$&lt;'^T:5*V&gt;(2P&lt;CZ5=H6F4X6U&lt;'FO:5.P&lt;'^S)%.M&lt;X.F1H6U&gt;'^O,F2S&gt;765&lt;U:B&lt;(.F2GFM&lt;%.P&lt;'^S)U.M&lt;X.F1H6U&gt;'^O,F2S&gt;765&lt;U:B&lt;(.F4X6U&lt;'FO:5.P&lt;'^S#F"B&lt;G5O1W^M&lt;X)35X"M;82U:8)O2GFM&lt;%.P&lt;'^S&amp;6.Q&lt;'FU&gt;'6S,E^V&gt;'RJ&lt;G6$&lt;WRP=AV4='RJ&gt;(2F=CZ4;8JF%&amp;2J&gt;'RF,E:P&lt;H1O1W^M&lt;X)26'FU&lt;'5O2G^O&gt;#Z'97VJ&lt;(E06'FU&lt;'5O2G^O&gt;#Z4;8JF%&amp;2J&gt;'RF,E:P&lt;H1O5X2Z&lt;'5!!":5;'6N:3"$&lt;WZU=G^M)&amp;"S&lt;X"F=H2Z!!"\!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=RB8;7ZE&lt;X=A27RF&lt;76O&gt;#UN:7ZV&lt;3ZD&gt;'Q!,5!7!!5%4G^O:1*51A*441*#5!*41A!!$F&gt;J&lt;G2P&gt;S"&amp;&lt;'6N:7ZU!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!)!!Q)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!)!!!!#!!!!!!"!!1!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
@@ -59,6 +59,15 @@ This is the Generic class. A child class will implement his own way of applying 
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">276832256</Property>
+			</Item>
+			<Item Name="Default Theme Info Entry Value-String.vi" Type="VI" URL="../API/Constants/Default Theme Info Entry Value-String.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%(!!!!"!!%!!!!+%!Q`````RZ5;'6N:3"*&lt;G:P)%6O&gt;(*Z)%2F:G&amp;V&lt;(1A6G&amp;M&gt;75!!(]!]1!!!!!!!!!$&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T'F2I:7VF)%FO:G]A27ZU=HEN,76O&gt;7UO9X2M!#^!&amp;A!$"%ZB&lt;75%6(FQ:1&gt;7:8*T;7^O!""5;'6N:3"*&lt;G:P)%6O&gt;(*Z!!"5!0!!$!!!!!!!!!!"!!!!!!!!!!!!!!!!!!!!!A)!!(A!!!!!!!!!!!!!!!!!!!E!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!%!!!!!!"!!-!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 		</Item>
 		<Item Name="Data Member Access" Type="Folder">
@@ -185,6 +194,15 @@ This is the Generic class. A child class will implement his own way of applying 
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1074278912</Property>
 			</Item>
+			<Item Name="Theme Info Entry--enum.ctl" Type="VI" URL="../API/Typedefs/Theme Info Entry--enum.ctl">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"0!!!!!1"(!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=QF$&lt;WZU=G^M)$)!#!!!!!%!!!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">5242880</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1074541056</Property>
+			</Item>
 			<Item Name="Theme Info--cluster.ctl" Type="VI" URL="../API/Typedefs/Theme Info--cluster.ctl">
 				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!"0!!!!!1"(!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=QF$&lt;WZU=G^M)$%!#!!!!!%!!!!!!!!</Property>
 				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
@@ -241,6 +259,15 @@ This is the Generic class. A child class will implement his own way of applying 
 				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+			</Item>
+			<Item Name="Theme Info Entry Enum To String.vi" Type="VI" URL="../API/Utilities/Theme Info Entry Enum To String.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!$`!!!!"!!%!!!!)%!Q`````R&gt;3&lt;W^U)&amp;2I:7VF)%6O&gt;(*Z)&amp;.U=GFO:Q"`!0%!!!!!!!!!!R:"=("F98*B&lt;G.F)%&amp;D&gt;'^S,GRW&lt;'FC&amp;5&gt;F&lt;G6S;7-A6'BF&lt;75O&lt;(:D&lt;'&amp;T=RJ5;'6N:3"*&lt;G:P)%6O&gt;(*Z,3VF&lt;H6N,G.U&lt;!!P1"9!!Q2/97VF"&amp;2Z='5(6G6S=WFP&lt;A!16'BF&lt;75A37ZG&lt;S"&amp;&lt;H2S?1!!6!$Q!!Q!!!!!!!!!!1!!!!!!!!!!!!!!!!!!!!)#!!"Y!!!!!!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!A!!!!!!1!$!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
 		</Item>
 	</Item>

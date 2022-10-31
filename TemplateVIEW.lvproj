@@ -28,10 +28,15 @@
 			<Item Name="JKI-Square-White Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Settings-No Shadow.ctl"/>
 		</Item>
 		<Item Name="Sources" Type="Folder">
+			<Item Name="Application" Type="Folder">
+				<Item Name="Modules" Type="Folder">
+					<Item Name="Settings Module.lvlib" Type="Library" URL="../Sources/Application/Modules/Settings Module/Settings Module.lvlib"/>
+				</Item>
+				<Item Name="Launcher.vi" Type="VI" URL="../Sources/Application/Launcher.vi"/>
+				<Item Name="Root Panel.lvlib" Type="Library" URL="../Sources/Application/Root Panel/Root Panel.lvlib"/>
+				<Item Name="StatusBar Actor.lvlib" Type="Library" URL="../Sources/Application/StatusBar Actor/StatusBar Actor.lvlib"/>
+			</Item>
 			<Item Name="Appearance Actor.lvlib" Type="Library" URL="../Sources/Appearance Actor/Appearance Actor.lvlib"/>
-			<Item Name="Launcher.vi" Type="VI" URL="../Sources/Launcher.vi"/>
-			<Item Name="Root Panel.lvlib" Type="Library" URL="../Sources/Root Panel/Root Panel.lvlib"/>
-			<Item Name="StatusBar Actor.lvlib" Type="Library" URL="../Sources/StatusBar Actor/StatusBar Actor.lvlib"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
 			<Item Name="Test_Split.vi" Type="VI" URL="../Tests/Test_Split.vi"/>
@@ -133,6 +138,7 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="FP References--cluster.ctl" Type="VI" URL="../Sources/Application/Root Panel/Root Panel Actor/FP References--cluster.ctl"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
