@@ -14,3 +14,35 @@ A LabVIEW application template.
 - [ ] Add language file support
 - Method Diagrams
 - StatusBar Actor
+
+# Window class
+- Top Window:
+  - Has TitleBar (Toggleable)
+    - Has Title (togglable)
+    - Has Close, Minimize & Maximize Buttons (Togglable)
+  - Has native menu bar (Togglable)
+  - No Docking / Undocking Feature
+  - Has SideMenu (Toggleable)
+  - Has StatusBar (Toggleable)
+- Module Window:
+  - Has TitleBar (Toggleable)
+    - Has Title (togglable)
+    - No Close, Minimize & Maximize Buttons when Docked
+  - Has native menu bar (Togglable)
+  - Has Docking / Undocking Feature
+  - Has SideMenu (Toggleable)
+  - Has StatusBar (Toggleable)
+- Popup Window:
+  - Has TitleBar (Toggleable)
+    - No Close, Minimize & Maximize Buttons ?
+  - Has native menu bar (Togglable)
+  - No Docking / Undocking Feature
+  - No SideMenu
+  - No StatusBar
+- Status Window:
+  - No TitleBar
+    - No Close, Minimize & Maximize Buttons
+  - No native menu bar (Togglable)
+  - No Docking / Undocking Feature
+  - No SideMenu
+  - No StatusBar
