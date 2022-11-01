@@ -20,12 +20,14 @@
 			<Item Name="JKI-Square-Grey Icon-Maximize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Maximize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-Grey Icon-Minimize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Minimize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-Grey Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Settings-No Shadow.ctl"/>
+			<Item Name="JKI-Square-Grey Icon-Undock-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-Grey Icon-Undock-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Close-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Close-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Collapse All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Collapse All-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Expand All-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Expand All-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Maximize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Maximize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Minimize-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Minimize-No Shadow.ctl"/>
 			<Item Name="JKI-Square-White Icon-Settings-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Settings-No Shadow.ctl"/>
+			<Item Name="JKI-Square-White Icon-Undock-No Shadow.ctl" Type="VI" URL="../Controls/JKI-Square-White Icon-Undock-No Shadow.ctl"/>
 		</Item>
 		<Item Name="Sources" Type="Folder">
 			<Item Name="Application" Type="Folder">
