@@ -30,6 +30,12 @@
 		<Item Name="Load Theme-Root Only Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/Load Theme-Root Only Msg/Load Theme-Root Only Msg.lvclass"/>
 		<Item Name="Propagate Theme To Nested Appearance Actors Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/Propagate Theme To Nested Appearance Actors Msg/Propagate Theme To Nested Appearance Actors Msg.lvclass"/>
 		<Item Name="Recieve Theme From Caller Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/Recieve Theme From Caller Msg/Recieve Theme From Caller Msg.lvclass"/>
+		<Item Name="UI Event-Close-Value Change Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/UI Event-Close-Value Change Msg/UI Event-Close-Value Change Msg.lvclass"/>
+		<Item Name="UI Event-Maximize-Value Change Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/UI Event-Maximize-Value Change Msg/UI Event-Maximize-Value Change Msg.lvclass"/>
+		<Item Name="UI Event-Minimize-Value Change Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/UI Event-Minimize-Value Change Msg/UI Event-Minimize-Value Change Msg.lvclass"/>
+		<Item Name="UI Event-Settings-Value Change Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/UI Event-Settings-Value Change Msg/UI Event-Settings-Value Change Msg.lvclass"/>
+		<Item Name="UI Event-Title Bar-Mouse Down Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/UI Event-Title Bar-Mouse Down Msg/UI Event-Title Bar-Mouse Down Msg.lvclass"/>
+		<Item Name="UI Event-Undock-Value Change Msg.lvclass" Type="LVClass" URL="../Appearance Actor Messages/UI Event-Undock-Value Change Msg/UI Event-Undock-Value Change Msg.lvclass"/>
 	</Item>
 	<Item Name="Theme Classes" Type="Folder">
 		<Item Name="Generic Theme.lvclass" Type="LVClass" URL="../Theme Classes/Generic Theme/Generic Theme.lvclass"/>
