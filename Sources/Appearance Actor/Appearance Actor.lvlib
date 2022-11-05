@@ -12,6 +12,7 @@
 			<Item Name="SideMenus" Type="Folder">
 				<Item Name="No SideMenu.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/SideMenus/No SideMenu/No SideMenu.lvclass"/>
 				<Item Name="SideMenu.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/SideMenus/SideMenu/SideMenu.lvclass"/>
+				<Item Name="Toggable SideMenu.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/SideMenus/Toggable SideMenu/Toggable SideMenu.lvclass"/>
 			</Item>
 			<Item Name="StatusBars" Type="Folder">
 				<Item Name="StatusBar.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/StatusBars/StatusBar/StatusBar.lvclass"/>
@@ -19,6 +20,7 @@
 			<Item Name="TitleBars" Type="Folder">
 				<Item Name="TitleBar.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/TitleBars/TitleBar/TitleBar.lvclass"/>
 			</Item>
+			<Item Name="Layout Component.lvclass" Type="LVClass" URL="../Layout Classes/Layout Components/Layout Component Class/Layout Component.lvclass"/>
 		</Item>
 		<Item Name="Predifined Layouts" Type="Folder">
 			<Item Name="Top Window.lvclass" Type="LVClass" URL="../Layout Classes/Predifined Layout/Top Window/Top Window.lvclass"/>
