@@ -269,6 +269,15 @@ This is the Generic class. A child class will implement his own way of applying 
 				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 				<Property Name="NI.ClassItem.State" Type="Int">1342710272</Property>
 			</Item>
+			<Item Name="Window Element String To Enum.vi" Type="VI" URL="../API/Utilities/Window Element String To Enum.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">)1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;+!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!(M!]1!!!!!!!!!$&amp;E&amp;Q='6B=G&amp;O9W5A17.U&lt;X)O&lt;(:M;7)62W6O:8*J9S"5;'6N:3ZM&gt;G.M98.T'&amp;&gt;J&lt;G2P&gt;S"&amp;&lt;'6N:7ZU,3VF&lt;H6N,G.U&lt;!!N1"9!"12/&lt;WZF!F2#!F..!E*1!F.#!!!/6WFO:'^X)%6M:7VF&lt;H1!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!=1$$`````%F&gt;J&lt;G2P&gt;S"&amp;&lt;'6N:7ZU)&amp;.U=A!!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!*!!!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!!A!!!!!!1!)!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">256</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+			</Item>
 		</Item>
 	</Item>
 </LVClass>
