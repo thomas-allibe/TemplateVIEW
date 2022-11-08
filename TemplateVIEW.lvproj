@@ -45,6 +45,7 @@
 				<Item Name="Root Panel.lvlib" Type="Library" URL="../Sources/Application/Root Panel/Root Panel.lvlib"/>
 				<Item Name="StatusBar Actor.lvlib" Type="Library" URL="../Sources/Application/StatusBar Actor/StatusBar Actor.lvlib"/>
 			</Item>
+			<Item Name="Appearance Actor Interface.lvlib" Type="Library" URL="../Sources/Appearance Actor Interface/Appearance Actor Interface.lvlib"/>
 			<Item Name="Appearance Actor.lvlib" Type="Library" URL="../Sources/Appearance Actor/Appearance Actor.lvlib"/>
 		</Item>
 		<Item Name="Tests" Type="Folder">
@@ -153,6 +154,7 @@
 				<Item Name="OffsetRect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/PictureSupport.llb/OffsetRect.vi"/>
 				<Item Name="Panel Actor.lvlib" Type="Library" URL="/&lt;vilib&gt;/MGI/Panel Manager/Panel Actor/Panel Actor.lvlib"/>
 				<Item Name="Panel.lvlib" Type="Library" URL="/&lt;vilib&gt;/MGI/Panel Manager/Panel/Panel.lvlib"/>
+				<Item Name="panelstate.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/panelstate.ctl"/>
 				<Item Name="Path Utilities.lvlib" Type="Library" URL="/&lt;vilib&gt;/Thomas ALLIBE/Path Utilities/Path Utilities.lvlib"/>
 				<Item Name="Release Semaphore Reference.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Release Semaphore Reference.vi"/>
 				<Item Name="Release Semaphore.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/semaphor.llb/Release Semaphore.vi"/>
@@ -169,6 +171,7 @@
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
 				<Item Name="Simple Error Handler.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Simple Error Handler.vi"/>
 				<Item Name="Single String To Qualified Name Array.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/LVClass/Single String To Qualified Name Array.vi"/>
+				<Item Name="sizeaction.ctl" Type="VI" URL="/&lt;vilib&gt;/event_ctls.llb/sizeaction.ctl"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
 				<Item Name="TagReturnType.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/TagReturnType.ctl"/>
@@ -184,6 +187,11 @@
 				<Item Name="whitespace.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/whitespace.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="Control Reference Lists--cluster.ctl" Type="VI" URL="../Sources/Appearance Actor/Appearance Actor/Typedefs/Control Reference Lists--cluster.ctl"/>
+			<Item Name="Control Reference Lists-BodyPane--cluster.ctl" Type="VI" URL="../Sources/Appearance Actor/Appearance Actor/Typedefs/Control Reference Lists-BodyPane--cluster.ctl"/>
+			<Item Name="Control Reference Lists-SideMenu--cluster.ctl" Type="VI" URL="../Sources/Appearance Actor/Appearance Actor/Typedefs/Control Reference Lists-SideMenu--cluster.ctl"/>
+			<Item Name="Control Reference Lists-StatusBar--cluster.ctl" Type="VI" URL="../Sources/Appearance Actor/Appearance Actor/Typedefs/Control Reference Lists-StatusBar--cluster.ctl"/>
+			<Item Name="Control Reference Lists-TitleBar--cluster.ctl" Type="VI" URL="../Sources/Appearance Actor/Appearance Actor/Typedefs/Control Reference Lists-TitleBar--cluster.ctl"/>
 			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
