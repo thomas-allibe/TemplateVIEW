@@ -12,3 +12,4 @@ A LabVIEW application template.
   - Wait implementation need
 - [ ] Flow Diagrams
 - [ ] StatusBar Actor
+- [ ] Test
